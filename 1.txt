@@ -1,0 +1,892 @@
+
+1. Which of the following requirements is testable?
+
+The system shall be user friendly
+
+The safety-critical parts of the system shall contain 0 faults.
+
+The response time shall be less than one second for the specified design load.
+
+The system shall be built to be portable.
+Incorrect
+0/1 Points
+2.Which  of  the  following are    the    tasks    of    a tester?
+
+i. Interact with the Test Tool  Vendor  to  identify best  ways  to  leverage test tool on the project.
+ii.  Prepare  and  acquire Test Data.
+iii.  Implement  tests  on all     test     levels,     and execute   and   log   the tests.
+iv.     Create     the     test specifications.
+
+i, ii, and iii are true, and iv is false.
+
+ii, iii, and iv is true, and i is false
+
+i is true and ii,iii, are iv are false
+
+iii and iv are true and i and ii are false
+Correct
+1/1 Points
+3.Which  of  the  following statements about testing is true?
+
+Testing is started as early as possible in the lifecycle.
+
+Testing is started after the code is written so that we have a system with which to work.
+
+Testing is most economically done at the end of the life cycle.
+
+Testing can only be done by an independent test team.
+Incorrect
+0/1 Points
+4.Which of the following are white box techniques?
+A. Statement testing.
+B. Path testing.
+C. Data flow testing.
+D. State transition testing
+
+A
+
+A, C
+
+B, D
+
+A, B, C
+Incorrect
+0/1 Points
+5.Which  of  the  following has the highest level of independence  and  it  is found    in    which    test cases?
+
+Core Container, Data Access / Integration, Web, AOP (Aspect Oriented Programming), Instrumentation, Messaging and Test
+
+Please remove and:IOC, AOP, Portlet, ORM, and Messaging
+
+Core Container, Data Access / Integration, JDBC, and Messaging
+
+Data Access / Integration, IOC, SpringMVC, ORM, and JDBC
+Incorrect
+0/1 Points
+6.Mike, a Test Lead, is preparing a test plan. What are the security threats he needs to considered in
+mobile security testing?
+
+A)Memory leak
+
+B)Remote access control
+
+C)Cracking encrypted data
+
+D)File reading
+Incorrect
+0/1 Points
+7.Which of the following are some of the important attributes of a test case?
+
+Introduction, Test Environment, Responsibilities, and Schedule
+
+Test Case Name, Test Steps, Expected Result, and Actual Result
+
+Features to be tested, Test Approach, Test Items, and Pass / Fail Criteria
+Incorrect
+0/1 Points
+8._________  is  the  ratio of    the    output    of    a process to the input.
+
+Metrics
+
+Productivity
+
+Entry and exit criteria
+
+Quality
+Correct
+1/1 Points
+9.Which test deliverable helps us identify the funtionality that is missed in test coverage?
+
+Test summary report
+
+Test Plan
+
+Test Cases
+
+Requirement Tracebility Matrix
+Incorrect
+0/1 Points
+10.Order numbers on a stock control system can range between 10000 and 99999 inclusive.
+ Which of the following inputs might be a result of designing tests for only valid equivalence classes and
+valid boundaries?
+
+1000, 5000, and 99999
+
+9999, 50000, and 100000
+
+10000, 50000, and 99999
+
+10000 and 99999
+
+9999, 10000, 50000, 99999, and 10000
+Correct
+1/1 Points
+11.Test environment is
+
+a.Used to establish and maintain an environment in which it is possible to execute specified tests in a manageable and repeatable way
+
+Needed to obtain results under conditions which are not close as possible to the ‘real life’ situation or production environment
+
+Not specific to any project
+
+None of the above
+Correct
+1/1 Points
+12.The cost of fixing a fault:
+
+Is not important
+
+Increases as we move the product towards live use
+
+Decreases as we move the product towards live use
+
+Is more expensive if found in requirements than functional
+Correct
+1/1 Points
+13.The IDE used to develop iOS application is __________
+
+A)Swift
+
+B)Xcode
+
+C)Eclipse
+
+D)J2E
+Correct
+1/1 Points
+14.Ashwin is a member of the Scrum Team. He does not what is a sprint review meeting. As a scrum master, you will tell him that the sprint review meeting is done to 
+
+Accelerate the actions done by the team
+
+To present what is working and what could work better
+
+Demo the product what the team has built
+Correct
+1/1 Points
+15.An important benefit of code inspections is that they........................
+
+It enables the code to be tested before the execution environment is ready.
+
+It can be performed by the person who wrote the code.
+
+It can be performed by inexperienced staff.
+
+It is cheap to perform.
+Incorrect
+0/1 Points
+16.State whether the statement is true or false.
+ CDM activity is carried as part of the project lifecycle.
+
+True
+
+False
+Correct
+1/1 Points
+17._________ happens when defect introduced in one phase passes to another phase without
+ getting caught in the phase-end verification or validation activities.
+
+Defect cascading
+
+Defect Prevention
+
+QC
+
+Defact leakage
+Correct
+1/1 Points
+18.Which  of  the  following is  a  form  of  functional testing?
+
+Boundary Value Analysis
+
+Usability Testing
+
+Performance Testing
+
+Security Testing
+Correct
+1/1 Points
+19.The difference between re-testing and regression testing is
+
+Re-testing is running a test again; regression testing looks for unexpected side effects
+
+Re-testing looks for unexpected side effects; regression testing is repeating those tests
+
+Re-testing is done after faults are fixed; regression testing is done earlier
+
+Re-testing uses different environments, regression testing uses the same environment
+Incorrect
+0/1 Points
+20.Which is NOT a component of a testing environment?
+
+Test Data
+
+An inventory of hardware
+
+Supporting software
+Correct
+1/1 Points
+21.Which of the following is NOT an internal / external threat?
+
+A)Social Engineering
+
+B)Hacked Network
+
+C)Unauthorized Access
+
+D)Memory Leak
+Correct
+1/1 Points
+22.Which IBM Tool is used to apply CTD?
+
+A)Rational Functional Tool
+
+B)Quality Center
+
+C)Focus
+
+D)ACTS
+Incorrect
+0/1 Points
+23.______  is  an  empirical investigation conducted   to   provide stakeholders with information  about  the quality  of  the  product of service under test.
+
+Validation
+
+Testing
+
+Verification
+
+Quality
+Incorrect
+0/1 Points
+24.Test cases are designed during:
+
+Test recording
+
+Test Planning
+
+Test Configuration
+
+Test Specification
+Correct
+1/1 Points
+25.What are the challenges in Mobile Application Testing?
+
+A)Multiple mobile devices across different form factors
+
+B)Single OS
+
+C)No carrier network dependency
+
+D)Single platform
+Correct
+1/1 Points
+26.What is CDM?
+
+A)Centralized Defect Management
+
+B)Combinatorial Defect Management
+
+C)Collaborative Defect Management
+
+D)Corrective Defect Management
+Incorrect
+0/1 Points
+27.What is primary purpose behind creation of any CTD Model?
+
+A)Test acceleration
+
+B)Left Shift
+
+C)Defect fixing
+
+D)Risk-based testing
+Correct
+1/1 Points
+28.What do blocked test cases indicate?
+
+Indicate test cases that are failed
+
+Indicate test cases that are not tested
+
+Indicate test cases that could not be executed due to a defect in another feature
+
+None of the above
+Incorrect
+0/1 Points
+29.Which of the following are the ten keypoints in writing effective defect report?
+
+)C - condense, A - accurate, N - neutral, P - precise, I - isolate, G - general, R - recreate, I - impact, D - debug, E - evidence
+
+C - condense, A - analyze, N - neutral, P - precise, I - isolate, G - general, R - record, I - impact, D - debug, E - evidence
+
+C - condense, A - analyze, N - normal, P - precise, I - innovate, G - general, R - recreate, I - impact, D - debug, E - execute
+
+C - condense, A - accurate, N - neutral, P - precise, I - isolate, G - general, R - recreate, I - imitate, D - doable, E - evidence
+Correct
+1/1 Points
+30.Fill in the blank.
+ David, a Tester, wants to test an app with different Network carriers providers at different geographic location across the world. The best option he has is _____________________
+
+A)Setup a device lab at the same premise.
+
+B)Use the remote access or device cloud.
+
+C)Test the app on Wi-Fi Network.
+
+D)Test the app in device lab
+Incorrect
+0/1 Points
+31.Which of the following is an insertion of the additional code into a program to collect
+information about a program behavior during program execution?
+
+Instrumentation
+
+Dynamic Assertion
+
+Inspection
+
+Force Field analysis
+Correct
+1/1 Points
+32.How should work be allocated to the team in an Agile project?
+
+A)The Team Leader (Scrum Master) should allocate specific tasks to individuals.
+
+B)Tasks should be randomly allocated to team members using Planning Poker.
+
+C)Team members should self-select tasks appropriate to their skills.
+
+D)The most complex tasks should be allocated by the Team Leader (Scrum Master).
+Correct
+1/1 Points
+33.What does CTD stands for?
+
+A)Comparitive Test Documentation
+
+B)Combinatorial Test Design
+
+C)Combined Team Demand
+
+D)Combined Test Documentation
+Incorrect
+0/1 Points
+34.With which test deliverable, Management can decide if the release can happen or not?
+
+Test summary report
+
+Requirement Tracebility Matrix
+
+Test Results/reports
+
+Test Strategy
+Correct
+1/1 Points
+35.Error-based testing can be driven by histories of programmer errors, measures of software complexity, knowledge of error-prone syntactic constructs, or even error guessing.
+
+True
+
+False
+Correct
+1/1 Points
+36.What is an audit?
+
+An inspection / assessment activity that verifies compliance with plans, policies, and procedures
+
+A quantitative measure of the current level of performance
+Correct
+1/1 Points
+37.Test design mainly emphasizes all of the following except:
+
+Data planning
+
+Test procedures planning
+
+Mapping data and test cases
+
+Data synchronization
+Correct
+1/1 Points
+38.In the verification and validation model, which phase of testing validates the low level design?
+
+System testing
+
+Integration Testing
+
+Unit Testing
+
+None of the above
+Incorrect
+0/1 Points
+39.What is the primary purpose of CTD Test Selection Modeling?
+
+A)Remove redundancy and enhance quality
+
+B)Identify defects early in testing cycle
+
+C)Improve coverage
+
+D)Reduce test cases, keeping the same coverage
+Correct
+1/1 Points
+40.What is a test report?
+
+A)Shows the total testing manpower available for a test phase / activity
+
+B)Defines the over-all status of the test cases during the test activity
+
+C)Total number of test cases with defects of the other team's latest release
+
+D)Total number of test cases deferred for next release
+Incorrect
+0/1 Points
+41.Which of the following is the correct order of the General Review Process?
+
+Planning Meeting Follow up Review Rework
+
+Planning Preparation Review Rework Follow up
+
+Planning Preparation Rework Review Follow up
+
+Planning Preparation Follow up Rework Review
+Incorrect
+0/1 Points
+42.______is a quantitative measure of  the  current  level  of performance.
+
+Test metrics
+
+Baseline
+
+Exit criteria
+
+Productivity
+Incorrect
+0/1 Points
+43.Which  of  the  following is a verification technique conducted by   the   author   of   the artifact   to   verify   the completeness?
+
+Desk Check
+
+Review
+
+Evaluation
+
+Inspection
+Correct
+1/1 Points
+44.Absence of good requirements leads to
+
+Project Failure
+
+Complete Requirements
+
+Lack of User non Involvement
+
+Usable requirements
+Incorrect
+0/1 Points
+45.Which  of  the  following is   an   example   of   an Audit and Controls Testing?
+
+Hire a database audit or to check value ranges and required relationships between records and randomly select a small subset of old records, and compare against a subset of new records
+
+Testing to confirm that app can recover from all types of error when they occur without terminating the application
+
+Testing that ignores the internal parts and focuses on whether the output is as per requirement or not
+
+Integration of automated software test suites with the product
+Incorrect
+0/1 Points
+46.Test Accelerators help in _________.
+
+A)Right Shift
+
+B)Left Shift
+
+C)Improving testing coverage
+
+D)Defect fixing
+Correct
+1/1 Points
+47.Why are restrictions needed in a model?
+
+A)To define business rules
+
+B)To restrict negative values
+
+C)To setup combinations
+Correct
+1/1 Points
+48.How do we define the concept of confidentiality in security testing?
+
+A security measure that protects against the disclosure of information to parties other than the intended recipient
+
+A security measure that provides fewer options for malicious users to gain access to secure information
+
+A security measure that refers to methods of ensuring that data is real, accurate, and safeguarded from unauthorized user modification
+
+A security measure that would provide information to all the users
+Correct
+1/1 Points
+49.Who is responsible for managing project ROI Vs Risk in agile development methodology?
+
+Product owner
+
+Scrum master
+
+Entire team
+
+All of the above
+Correct
+1/1 Points
+50.Which of the following is a sample artifact of a test metric?
+
+Test case coverage
+
+Testing resources
+
+Test schedule
+
+Test environment
+Correct
+1/1 Points
+51.A test case has
+
+a set of inputs
+
+execution conditions
+
+expected results
+
+No specifications
+Correct
+1/1 Points
+52.Which  of  the  following is  defined  as  a  set  of activities    required    to provide adequate confidence that processes are established continuously   and   are improved   to   produce products     that     meet specifications   and   are fit for use? 
+
+Inspection
+
+Quality control
+
+System Testing
+
+Quality Assurance
+Correct
+1/1 Points
+53.Which of the folowing is a sample artifact of a test measurement?
+
+A)Number of test cases out of scope
+
+B)Number of test cases passed / failed
+
+C)Total number of test cases with defects of the other team's latest release
+
+D)Total number of test cases deferred for next release
+Incorrect
+0/1 Points
+54.Scrum master role includes?
+
+Prioritizing the product backlog
+
+Removing the impediments
+
+Protects the application
+Correct
+1/1 Points
+55.The intent of the ----------------- is to establish the framework for testing the system and work products to be delivered to the client.
+
+Test Startegy
+
+Test Plan
+
+Test metrics
+
+Test Validation
+Incorrect
+0/1 Points
+56.Which of the following is a responsibility of a Product Owner?
+
+A)Business processes diagramming
+
+B)Prioritizing requirements
+
+C)Managing the project progress
+
+D)A and C
+Incorrect
+0/1 Points
+57.Which one is not a type of requirement error
+
+a.CorrectFact
+
+b.Omission
+
+c.Inconsistency
+
+d.Ambiguity
+Correct
+1/1 Points
+58.Fill in the blank.
+______ is a process of checking the answer to the question, "Has the right product been built?"
+
+Verfication
+
+Review
+
+Validation
+
+Testing
+Correct
+1/1 Points
+59.______ is a process of checking the answer to the question, "Has  the  product  been built right?"
+
+Verification
+
+Review
+
+Validation
+
+Testing
+Incorrect
+0/1 Points
+60.______   is   a   program that directs the execution   of    another program against a collection  of  test  data sets.
+
+Test Bed
+
+Test Case
+
+Driver
+
+Test Item
+Incorrect
+0/1 Points
+61.Greg, a Mobile Tester, needs to read the information stored in database that may store sensitive
+information like user credentials, account information., What tool can he use?
+
+A)SQLlite3
+
+B)Network sniffer
+
+C)IBM AppScan Source
+
+D)Dcomplier
+Incorrect
+0/1 Points
+62.Where does CTD fit in the Testing Cycle?
+
+A)Test Designing
+
+B)Requirement Gathering
+
+C)Test Execution
+
+D)Test Planning
+Incorrect
+0/1 Points
+63.Which  of  the  following refers   tothe   money spent above and beyond expected production  costs?  Note that this involves prevention,    appraisal, internal,   and   external failure costs.
+
+Budget
+
+Production cost
+
+Investment
+
+Cost of quality
+Correct
+1/1 Points
+64.A non-functional software testing is done to check if the user interface is easy to use and to understand
+the ___________.
+
+Usability Testing
+
+Security testing
+
+Unit testing
+
+Black Box testing
+Correct
+1/1 Points
+65.Which phase is found to be the major source of bugs?
+
+Design
+
+Testing
+
+Coding
+
+Requirements
+Incorrect
+0/1 Points
+66.Gillian, a tester, needs to test mobile connectivity for an app in her project. ,What are the
+connectivities she should consider to test?
+
+A)She should test only on 3G Network.
+
+B)She should test on 3G and LTE Network.
+
+C)She should test on EDGE and 3G network.
+
+D)She should test on EDGE, 3G, LTE, and Wi-Fi networks.
+Incorrect
+0/1 Points
+67.What is the purpose of Confirmation Testing?
+
+To confirm the users' confidence that the system will meet their business needs
+
+To confirm that a defect has been fixed correctly
+
+To confirm that no unexpected changes have been introduced or uncovered as a result of changes made
+
+To confirm that the detailed logic of a component conforms to its specification
+Incorrect
+0/1 Points
+68.Which  of  the  following would  form  apart  of  a test plan?
+1. Features to be tested,
+2.     Incident     Reports,
+3. Risks,
+4. Schedule,
+
+1 only
+
+1 & 3
+
+2 & 4
+
+1, 3 & 4
+Correct
+1/1 Points
+69.What factors should be considered   to    decide how   much   testing   is enough and what should   be   taken   into account for that?
+i. Level of Risk including Technical  and  Business product    and    project risk.
+ii.   Project   constraints such as time and budget.
+iii.     Size     of Testing Team.
+iv. Size of the Development Team.
+
+i,ii, and iii are true, and iv is false.
+
+i, iii, and iv are true and ii is false.
+
+i and ii are true and iii and iv are false.
+
+ii, iii, and iv are true and i is false.
+Correct
+1/1 Points
+70.Which  of  the  following best describes Integration Testing?
+
+Testing performed to expose faults in the interfaces and in the interaction between integrated components.
+
+Testing to verify that a component is ready for integration.
+
+Testing to verify that the test environment can be integrated with the product.
+
+Integration of automated software test suites with the product.
+Correct
+1/1 Points
+71.)Which of the following is NOT a Test Accelerator?
+
+A)Document Analytics
+
+B)CTD
+
+C)CDM
+
+D)ATA
+
+E)Robotium
+Correct
+1/1 Points
+72.Alpha Testing is:
+
+Post-release testing by end user representatives at the developer's site
+
+The first testing that is performed
+
+Pre-release testing by end user representatives at the developer's site
+
+Pre-release testing by end user representatives at their sites
+Incorrect
+0/1 Points
+73.Which  of  the  following activity  has the  highest level of independence?
+
+Designed by persons who write the software under test
+
+Designed by a person from a different section
+
+Designed by a person from a different organization
+
+Designed by another person
+Correct
+1/1 Points
+74.Error guessing is best used...........................
+
+As the first approach for deriving test cases
+
+After more formal techniques have been applied
+
+By inexperienced testers
+
+After the system has gone
+
+Only by users
+Incorrect
+0/1 Points
+75.What is cut over testing?
+
+Testing of conversion
+
+Testing of role based security
+
+Both
+
+Testing the Security Functionalities are working fine.
+Correct
+1/1 Points
+76.Which of the following are the reasons to perform testing? 
+A. Audiability , B. Maintainability , C. Operability , D. Security and Safety
+
+A only
+
+A & C
+
+B & D only
+
+A, C & D
+
+A, B, C, D
+Incorrect
+0/1 Points
+77.Which of the following is a benefit of a test case review?
+
+It prevents creation of defect while we go over the list of test cases
+
+Helps to track test case owner assigned per module
+
+It can identify which test case will be prioritized for the test activity
+
+It is able to categorize which test case will be executed on which test environment
+Correct
+1/1 Points
+78.Testers are generally not responsible for
+
+Unit Testing
+
+System Testing
+
+Code wise Testing
+
+User Acceptance Testing
+Incorrect
+0/1 Points
+79.Which tool is used for android development which we can perform both white box and block box testing?
+
+Robotium
+
+PerfectoMobile
+
+SQL lite 3
+Correct
+1/1 Points
+80.It     is     conducted     to validate that the application,    database, and    network    that    is running can handle projected   volumes   of users and data effectively.  This  test  is conducted    jointly    by developers, testers, DBA's, and network associates     after     the system    testing.    It    is called:
+
+Functional Testing
+
+Stress/ Load Testing
+
+Recovery Testing
+
+Integration Testing
